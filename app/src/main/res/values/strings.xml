@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Animation app</string>
+    <string name="itsbgimage">itsbgimage</string>
+    <string name="animation">ANIMATION</string>
+    <string name="txt">move</string>
+    <string name="scl">scale</string>
+    <string name="alp">alpha</string>
+     <string name="rt">rotate</string>
+
+
+
+</resources>
